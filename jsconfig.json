@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "module": "ES6",
+    "lib": ["DOM", "DOM.Iterable", "ES2016"],
+    "target": "ES2016",
+    "strictNullChecks": true,
+    "strictFunctionTypes": true
+  }
+}
